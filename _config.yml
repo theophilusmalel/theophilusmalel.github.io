@@ -108,8 +108,10 @@ tag_archive:
 
 ---
 
-bundle exec jekyll serve
+git add .
+git commit -m "Updated config and content"
+git push origin main  # or gh-pages, depending on your branch
 
-bundle exec jekyll serve
+
 
 
