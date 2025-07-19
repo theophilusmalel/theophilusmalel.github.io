@@ -67,7 +67,7 @@ Energetic and customer-focused professional with over **6 years** of experience 
 
 ## 🌍 **Languages**
 
-- 🇬🇧 English – Fluent  
-- 🇰🇪 Swahili – Fluent
+- English – Fluent  
+- Swahili – Fluent
 ```
 
