@@ -108,3 +108,8 @@ tag_archive:
 
 ---
 
+bundle exec jekyll serve
+
+bundle exec jekyll serve
+
+
