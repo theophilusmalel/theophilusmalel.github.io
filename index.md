@@ -75,6 +75,7 @@ bundle exec jekyll serve
 
 bundle exec jekyll serve
 
+jekyll clean && bundle exec jekyll serve
 
 
 
