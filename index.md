@@ -12,7 +12,8 @@ author_profile: true
 
 ## 🧑‍💼 **Professional Summary**
 
-Energetic and customer-focused professional with over **6 years** of experience in fast-paced, service-oriented, and technically demanding environments. Adept at handling pressure, ensuring safety compliance, and delivering exceptional client support. Proven ability to work in diverse teams, resolve issues calmly, and communicate effectively. Eager to bring strong interpersonal, problem-solving, and organizational skills to a dynamic **Cabin Crew** role.
+A highly skilled Network Security Engineer with extensive experience in Fortinet technologies, firewall configurations, SD-WAN, endpoint security, VPNs, and cybersecurity projects. 
+  Proven expertise in securing enterprise infrastructure, leading national security deployments (KEBS, KPC, ODPC, KENTRADE), and continuously staying updated with modern security solutions.
 
 ---
 
