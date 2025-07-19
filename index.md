@@ -4,10 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: true
----
-Here’s your improved CV in **Markdown with icons and emojis** to make it visually engaging while still keeping it professional. Ideal for online platforms like GitHub or Notion.
 
-# ✈️ Theophilus Malel
+
+#  Theophilus Malel
 
 ---
 
