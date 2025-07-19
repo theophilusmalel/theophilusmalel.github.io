@@ -13,8 +13,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-Here’s your `_config.yml` file for a **Minimal Mistakes Jekyll theme**, customized with the **information you shared** earlier about your career and skills.
-
 
 title: "Theophilus Malel"
 email: "Theophilusmalel@gmail.com"
