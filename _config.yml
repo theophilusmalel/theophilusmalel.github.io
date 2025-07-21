@@ -1,1 +1,104 @@
+---
 
+```yaml
+name: Theophilus Malel
+title: Network Security Engineer | Fortinet Specialist
+
+career_summary: >
+  A highly skilled Network Engineer with expertise in network security. Possesses deep understanding of network infrastructure, firewall configurations, VPNs, and threat mitigation strategies. 
+  Proficient in designing, implementing, and maintaining secure and scalable network solutions. Experienced in FortiGate firewalls, FortiManager, FortiAnalyzer, SD-WAN, IPS, IDS, and endpoint security. 
+  Results-driven with strong problem-solving and collaboration skills. Continuously learning and adapting to the latest Fortinet solutions and cybersecurity practices.
+
+key_skills:
+  - Network Security & Cybersecurity
+  - Fortinet Solutions (FortiGate, FortiAnalyzer, FortiManager, FortiWAF, FortiNAC, FortiAuthenticator, FortiClient EMS, ZTNA)
+  - Routing & Switching (BGP, OSPF, EIGRP, VLAN, STP, QoS)
+  - VPNs (IPSec, SSL-VPN, Site-to-Site, Remote Access)
+  - Intrusion Detection & Prevention (IDS/IPS)
+  - Network Design & Visio Documentation
+  - Cloud Computing (AWS)
+  - Server Setup & Maintenance
+  - Network Troubleshooting & Optimization
+  - Fiber Optics Deployment & Maintenance
+  - Phone Systems (Panasonic, 3CX, Yeastar)
+  - CCTV & Biometric Infrastructure
+
+certifications:
+  - Fortinet Certified Solution Specialist – Network Security
+  - Fortinet Certified Professional – Firewall Administrator (NSE 4)
+  - Fortinet Solution Specialist – Zero Trust Access (ongoing)
+  - Fortinet Solution Specialist – SASE (ongoing)
+  - ITIL V4 Foundation
+  - Google Workspace End User
+  - Microsoft 365
+  - PCNSA EDU 210 – Palo Alto Academy
+  - AWS Certified Cloud Practitioner
+  - Python Programming – Cisco Academy (ongoing)
+  - CNPP Enterprise Core Networking – Cisco
+  - Cisco CyberOps Associate
+  - Cisco Certified Network Associate – Security
+  - Cisco Certified Network Associate – Routing and Switching
+  - Ethical Hacking – Cisco (ongoing)
+  - Introduction to Generative AI – Google
+
+education:
+  - degree: BSc in Information Technology
+    institution: Jomo Kenyatta University of Agriculture and Technology
+    years: 2013–2017
+
+  - degree: Kenya Certificate of Secondary Education
+    institution: St. Marks Boys High School
+    years: 2008–2011
+
+  - degree: Kenya Certificate of Primary Education
+    institution: Motoset Primary School
+    years: 2000–2008
+
+experience:
+  - title: Network Security Engineer
+    company: RTL
+    location: Kenya
+    period: March 2023 – Present
+    responsibilities:
+      - Configured and maintained Fortinet firewalls, VPNs, LANs, and secure access protocols
+      - Delivered PoC, documentation, and solutions to clients with full technical scope
+      - Designed and deployed network and solution topologies
+      - Installed and configured FortiWeb, FortiNAC, FortiManager, FortiAnalyzer, FortiClient EMS, and ZTNA
+      - Led compliance and threat detection through SD-WAN, IDS/IPS, logging, and backup systems
+      - Ensured systems met all regulatory and DR requirements
+
+  - title: ICT Support Technician
+    company: Artcaffe Coffee and Bakery
+    location: Kenya
+    period: Feb 2021 – Jan 2023
+    responsibilities:
+      - Set up and maintained hardware, OS, and business-critical software
+      - Onboarded users and provided IT orientation & training
+      - Configured network devices (switches, routers), Active Directory, OneDrive, SharePoint
+      - Managed inventory and vendor relations
+      - Installed firewalls, phone systems, biometric, and CCTV systems
+
+  - title: Fixed Data Engineer
+    company: Masaba Services (Safaricom Projects)
+    location: Kenya
+    period: March 2018 – Jan 2021
+    responsibilities:
+      - Installed and configured routers, switches, LANs, WANs, MPLS, SIP
+      - Installed and maintained wireless (Ruckus, Cisco, TP-Link) and fiber (FTTH, FTTP)
+      - Performed RF surveys and fault detection
+      - Supported clients remotely and led training of junior engineers
+      - Upgraded firmware, configured firewalls, and optimized network performance
+
+projects:
+  - Secure SD-WAN – Lead Engineer
+  - WAF (FortiWeb) – Lead Engineer
+  - FortiNAC, FortiManager, FortiAnalyzer – Lead Engineer
+  -ZTNA - Lead Engineer
+  - MPLSoLTE Implementation – Safaricom Project – Lead Engineer
+
+languages:
+  - English: Fluent
+  - Swahili: Fluent
+```
+
+---
