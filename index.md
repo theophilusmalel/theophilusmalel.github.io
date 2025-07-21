@@ -193,9 +193,6 @@ A results-driven professional with strong problem-solving skills, analytical thi
 - **Kenya Certificate of Secondary Education**  
   _St. Marks Boys High School_ (2008 – 2011)
 
-- **Kenya Certificate of Primary Education**  
-  _Motoset Primary School_ (2000 – 2008)
-
 ---
 
 ## 📚 Professional Courses
