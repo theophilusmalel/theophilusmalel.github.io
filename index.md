@@ -7,7 +7,8 @@ A highly skilled **Network Engineer** with expertise in network security. Posses
 
 Expertise includes:
 
-- 🔥 **Fortinet Solutions**: FortiGate, FortiManager, FortiAnalyzer, FortiWAF, FortiNAC, FortiAuthenticator (IAM), FortiClient EMS, ZTNA  
+- 🔥 **Fortinet Solutions**: FortiGate, FortiManager, FortiAnalyzer, FortiWAF, FortiNAC, FortiAuthenticator (IAM), FortiClient EMS, ZTNA
+- 🔀🌐**Cisco and huawei routers and switches**
 - 🌐 **SD-WAN, IPS, IDS & Endpoint Security**  
 - 🔀 **Routing & Switching**: BGP, OSPF, EIGRP, VLANs, L2/L3 switching, wireless security  
 
