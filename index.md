@@ -12,7 +12,7 @@ Expertise includes:
 - 🌐 **SD-WAN, IPS, IDS & Endpoint Security**  
 - 🔀 **Routing & Switching**: BGP, OSPF, EIGRP, VLANs, L2/L3 switching, wireless security  
 
-A results-driven professional with strong problem-solving skills, analytical thinking, and a proactive approach to network security challenges. Excellent at collaborating with cross-functional teams to enhance security policies, optimize performance, and implement cutting-edge measures. Committed to continuous learning and staying updated with the latest Fortinet advancements and industry best practices.
+A results-driven professional with strong problem-solving skills, analytical thinking, and a proactive approach to network security challenges. Excellent at collaborating with cross-functional teams to enhance security policies, optimize performance, and implement cutting-edge measures. Committed to continuous learning and staying updated with the latest Fortinet and Cisco advancements and industry best practices.
 
 ---
 
