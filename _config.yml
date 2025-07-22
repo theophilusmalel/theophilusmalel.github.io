@@ -1,104 +1,112 @@
----
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-```yaml
-name: Theophilus Malel
-title: Network Security Engineer | Fortinet Specialist | Cybersecurity Leader | CyberSecurity Consultant | Ethical Hacker
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-career_summary: >
-  A highly skilled Network Engineer with expertise in network security. Possesses deep understanding of network infrastructure, firewall configurations, VPNs, and threat mitigation strategies. 
-  Proficient in designing, implementing, and maintaining secure and scalable network solutions. Experienced in FortiGate firewalls, FortiManager, FortiAnalyzer, SD-WAN, IPS, IDS, and endpoint security. 
-  Results-driven with strong problem-solving and collaboration skills. Continuously learning and adapting to the latest Fortinet solutions and cybersecurity practices.
+title: "Theophilus Malel"
+email: "Theophilusmalel@gmail.com"
+description: >-
+  A highly skilled Network Security Engineer with extensive experience in Fortinet technologies, firewall configurations, SD-WAN, endpoint security, VPNs, and cybersecurity projects. 
+  Proven expertise in securing enterprise infrastructure, leading national security deployments, and continuously staying updated with modern security solutions.
 
-key_skills:
-  - Network Security & Cybersecurity
-  - Fortinet Solutions (FortiGate, FortiAnalyzer, FortiManager, FortiWAF, FortiNAC, FortiAuthenticator, FortiClient EMS, ZTNA)
-  - Routing & Switching (BGP, OSPF, EIGRP, VLAN, STP, QoS)
-  - VPNs (IPSec, SSL-VPN, Site-to-Site, Remote Access)
-  - Intrusion Detection & Prevention (IDS/IPS)
-  - Network Design & Visio Documentation
-  - Cloud Computing (AWS)
-  - Server Setup & Maintenance
-  - Network Troubleshooting & Optimization
-  - Fiber Optics Deployment & Maintenance
-  - Phone Systems (Panasonic, 3CX, Yeastar)
-  - CCTV & Biometric Infrastructure
+#twitter_username: reyparlour
+github_username: theophilusmalel
+minimal_mistakes_skin: dark
+search: true
 
-certifications:
-  - Fortinet Certified Solution Specialist – Network Security
-  - Fortinet Certified Professional – Firewall Administrator (NSE 4)
-  - Fortinet Solution Specialist – Zero Trust Access (ongoing)
-  - Fortinet Solution Specialist – SASE (ongoing)
-  - ITIL V4 Foundation
-  - Google Workspace End User
-  - Microsoft 365
-  - PCNSA EDU 210 – Palo Alto Academy
-  - AWS Certified Cloud Practitioner
-  - Python Programming – Cisco Academy (ongoing)
-  - CNPP Enterprise Core Networking – Cisco
-  - Cisco CyberOps Associate
-  - Cisco Certified Network Associate – Security
-  - Cisco Certified Network Associate – Routing and Switching
-  - Ethical Hacking – Cisco (ongoing)
-  - Introduction to Generative AI – Google
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
 
-education:
-  - degree: BSc in Information Technology
-    institution: Jomo Kenyatta University of Agriculture and Technology
-    years: 2013–2017
+# Outputting
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
+timezone: Africa/Nairobi
 
-  - degree: Kenya Certificate of Secondary Education
-    institution: St. Marks Boys High School
-    years: 2008–2011
+include:
+  - _pages
 
-  - degree: Kenya Certificate of Primary Education
-    institution: Motoset Primary School
-    years: 2000–2008
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
-experience:
-  - title: Network Security Engineer
-    company: RTL
-    location: Kenya
-    period: March 2023 – Present
-    responsibilities:
-      - Configured and maintained Fortinet firewalls, VPNs, LANs, and secure access protocols
-      - Delivered PoC, documentation, and solutions to clients with full technical scope
-      - Designed and deployed network and solution topologies
-      - Installed and configured FortiWeb, FortiNAC, FortiManager, FortiAnalyzer, FortiClient EMS, and ZTNA
-      - Led compliance and threat detection through SD-WAN, IDS/IPS, logging, and backup systems
-      - Ensured systems met all regulatory and DR requirements
+author:
+  name   : "Theophilus Malel"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Network Security Engineer | Fortinet Specialist | Cybersecurity Leader | CyberSecurity Consultant | Ethical Hacker"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/theophilusmalel"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/theophilusmalel"
+    #- label: "Certifications"
+      #icon: "fas fa-fw fa-certificate"
+      #url: "https://github.com/reyparlour/certifications"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "theophilusmalel@gmail.com"
 
-  - title: ICT Support Technician
-    company: Artcaffe Coffee and Bakery
-    location: Kenya
-    period: Feb 2021 – Jan 2023
-    responsibilities:
-      - Set up and maintained hardware, OS, and business-critical software
-      - Onboarded users and provided IT orientation & training
-      - Configured network devices (switches, routers), Active Directory, OneDrive, SharePoint
-      - Managed inventory and vendor relations
-      - Installed firewalls, phone systems, biometric, and CCTV systems
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/theophilusmalel"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/theophilusmalel"
+    #- label: "Email"
+      #icon: "fas fa-fw fa-envelope"
+      #url: "mailto:rey.parlour@example.com"
 
-  - title: Fixed Data Engineer
-    company: Masaba Services (Safaricom Projects)
-    location: Kenya
-    period: March 2018 – Jan 2021
-    responsibilities:
-      - Installed and configured routers, switches, LANs, WANs, MPLS, SIP
-      - Installed and maintained wireless (Ruckus, Cisco, TP-Link) and fiber (FTTH, FTTP)
-      - Performed RF surveys and fault detection
-      - Supported clients remotely and led training of junior engineers
-      - Upgraded firmware, configured firewalls, and optimized network performance
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
-projects:
-  - Secure SD-WAN – Lead Engineer
-  - WAF (FortiWeb) – Lead Engineer
-  - FortiNAC, FortiManager, FortiAnalyzer – Lead Engineer
-  -ZTNA - Lead Engineer
-  - MPLSoLTE Implementation – Safaricom Project – Lead Engineer
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
-languages:
-  - English: Fluent
-  - Swahili: Fluent
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 ```
 
 ---
+
+
+
