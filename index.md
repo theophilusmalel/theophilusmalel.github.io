@@ -1,7 +1,10 @@
 ---
-layout: single
-author_profile:true
+layout: home
+title: "Welcome"
+author_profile: true
+author: "Theophilus Malel"
 ---
+
 # 🛡️ Theophilus Malel
 
 ---
