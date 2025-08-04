@@ -5,37 +5,22 @@ description: >-
   A highly skilled Network Security Engineer with extensive experience in Fortinet technologies, firewall configurations, SD-WAN, endpoint security, VPNs, and cybersecurity projects.
   Proven expertise in securing enterprise infrastructure, leading national security deployments, and continuously staying updated with modern security solutions.
 
+baseurl: "" # leave empty for user.github.io
+url: "https://theophilusmalel.github.io" # your GitHub Pages URL
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: dark
 search: true
 timezone: Africa/Nairobi
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
 
-# Output
-permalink: /:categories/:title/
-paginate: 5
-paginate_path: /page:num/
-
-# Includes
-include:
-  - _pages
-
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-  - jekyll-remote-theme
-
-# Author info (for sidebar)
+# Author profile (for sidebar)
 author:
   name   : "Theophilus Malel"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Network Security Engineer | Fortinet Specialist | Cybersecurity Leader | Ethical Hacker"
-  location : "Nairobi, Kenya"
+  bio    : "Network Security Engineer | Fortinet Specialist | Cybersecurity Leader"
+  location: "Nairobi, Kenya"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -57,9 +42,27 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/theophilusmalel"
 
-# Defaults
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+permalink: /:categories/:title/
+
+# Include custom pages
+include:
+  - _pages
+
+# Plugins (GitHub Pages supported)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+# Defaults to enable layout and author sidebar globally
 defaults:
-  # Home page
   - scope:
       path: ""
       type: "pages"
@@ -67,10 +70,9 @@ defaults:
       layout: home
       author_profile: true
 
-  # Posts
   - scope:
       path: ""
-      type: posts
+      type: "posts"
     values:
       layout: single
       author_profile: true
@@ -79,7 +81,7 @@ defaults:
       share: true
       related: true
 
-# Archive settings
+# Archives (optional)
 category_archive:
   type: liquid
   path: /categories/
