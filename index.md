@@ -137,10 +137,10 @@ A results-driven professional with strong problem-solving skills, analytical thi
 
 ## 🏆 Key Achievements
 
-- ✅ Lead Engineer – KEBS Secure SD-WAN  
-- ✅ Lead Engineer – KPC WAF & SD-WAN  
-- ✅ Lead Engineer – ODPC ZTNA  
+- ✅ Lead Engineer –  Secure SD-WAN  
+- ✅ Lead Engineer – WAF & SD-WAN  
+- ✅ Lead Engineer – ZTNA  
 - ✅ Lead Engineer – FortiManager, FortiAnalyzer, FortiNAC  
-- ✅ Lead Engineer – KENTRADE MPLSoLTE  
+- ✅ Lead Engineer – MPLSoLTE  
 
 ---
