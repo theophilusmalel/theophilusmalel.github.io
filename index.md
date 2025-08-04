@@ -1,5 +1,8 @@
 ---
-# 🛡️ THeophilus Malel
+layout: single
+author_profile:true
+---
+# 🛡️ Theophilus Malel
 
 ---
 
