@@ -62,4 +62,31 @@ A results-driven professional with strong problem-solving skills, analytical thi
 ## 🎓 Education Background
 
 - **BSc Information Technology**  
-  _Jomo Kenyatta University of Agriculture & Technol_
+  _Jomo Kenyatta University of Agriculture & Technology_ (2013 – 2017)
+
+- **Kenya Certificate of Secondary Education**  
+  _St. Marks Boys High School_ (2008 – 2011)
+
+---
+
+## 📚 Professional Courses
+
+*(list of professional courses as provided earlier)*
+
+---
+
+## 🏢 Work History
+
+*(same format as you already have — RTL, Artcaffe, Masaba Services, etc.)*
+
+---
+
+## 🏆 Key Achievements
+
+- ✅ Lead Engineer – Secure SD-WAN  
+- ✅ Lead Engineer – WAF  
+- ✅ Lead Engineer – ZTNA  
+- ✅ Lead Engineer – FortiManager, FortiAnalyzer, FortiNAC  
+- ✅ Lead Engineer – MPLSoLTE  
+
+---
