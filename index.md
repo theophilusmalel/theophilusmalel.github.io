@@ -7,12 +7,15 @@ author: "Theophilus Malel"
 
 # 🛡️ Theophilus Malel
 
+_Written by **{{ page.author }}**_
+
 ---
 
 ## 🎯 Career Profile Summary
+
 A highly skilled **Network Engineer** with expertise in network security. Possesses a deep understanding of network infrastructure, firewall configurations, VPNs, and threat mitigation strategies. Proficient in designing, implementing, and maintaining secure and scalable network solutions to ensure seamless business operations.
 
-Expertise includes:
+**Expertise includes:**
 
 - 🔥 **Fortinet Solutions**: FortiGate, FortiManager, FortiAnalyzer, FortiWAF, FortiNAC, FortiAuthenticator (IAM), FortiClient EMS, ZTNA  
 - 🌐 **SD-WAN, IPS, IDS & Endpoint Security**  
@@ -124,7 +127,7 @@ A results-driven professional with strong problem-solving skills, analytical thi
 
 ### 🌐 Fixed Data Engineer  
 **Masaba Services (Safaricom Projects)** | Mar 2018 – Jan 2021  
-- 🔀 Configured LAN/WAN/MPLS, P2P, SIP, UC over microwave/4G/ fiber  
+- 🔀 Configured LAN/WAN/MPLS, P2P, SIP, UC over microwave/4G/fiber  
 - 📡 Performed RF site surveys; installed Ruckus/Cisco/TP-Link APs  
 - 🛠️ Preventive maintenance; firmware upgrades; firewall support  
 - ✂️ Fiber splicing, testing & cabinet deployments  
@@ -134,12 +137,10 @@ A results-driven professional with strong problem-solving skills, analytical thi
 
 ## 🏆 Key Achievements
 
-- Lead Engineer: **Secure SD-WAN**  
-- Lead Engineer: **WAF**  
-- Lead Engineer: **ZTNA**  
-- Lead Engineer: **FortiNAC, FortiManager & FortiAnalyzer**  
-- Lead Engineer: **MPLSoLTE Implementation**  
+- ✅ Lead Engineer – KEBS Secure SD-WAN  
+- ✅ Lead Engineer – KPC WAF & SD-WAN  
+- ✅ Lead Engineer – ODPC ZTNA  
+- ✅ Lead Engineer – FortiManager, FortiAnalyzer, FortiNAC  
+- ✅ Lead Engineer – KENTRADE MPLSoLTE  
 
 ---
-  
-
