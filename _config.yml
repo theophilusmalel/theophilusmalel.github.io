@@ -2,23 +2,21 @@
 title: "Theophilus Malel"
 email: "theophilusmalel@gmail.com"
 description: >-
-  A highly skilled Network Security Engineer with extensive experience in Fortinet technologies, firewall configurations, SD-WAN, endpoint security, VPNs, and cybersecurity projects. 
+  A highly skilled Network Security Engineer with extensive experience in Fortinet technologies, firewall configurations, SD-WAN, endpoint security, VPNs, and cybersecurity projects.
   Proven expertise in securing enterprise infrastructure, leading national security deployments, and continuously staying updated with modern security solutions.
 
-github_username: theophilusmalel
 minimal_mistakes_skin: dark
 search: true
-
-# Build settings
+timezone: Africa/Nairobi
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
 
-# Output settings
+# Output
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
-timezone: Africa/Nairobi
 
+# Includes
 include:
   - _pages
 
@@ -32,13 +30,12 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
-# To fix Faraday retry middleware issue, ensure the following gem is installed if using Bundler locally:
-# gem "faraday-retry"
-
+# Author info (for sidebar)
 author:
   name   : "Theophilus Malel"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Network Security Engineer | Fortinet Specialist | Cybersecurity Leader | CyberSecurity Consultant | Ethical Hacker"
+  bio    : "Network Security Engineer | Fortinet Specialist | Cybersecurity Leader | Ethical Hacker"
+  location : "Nairobi, Kenya"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -50,6 +47,7 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:theophilusmalel@gmail.com"
 
+# Footer links
 footer:
   links:
     - label: "LinkedIn"
@@ -59,8 +57,17 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/theophilusmalel"
 
+# Defaults
 defaults:
-  # _posts
+  # Home page
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: home
+      author_profile: true
+
+  # Posts
   - scope:
       path: ""
       type: posts
@@ -72,14 +79,7 @@ defaults:
       share: true
       related: true
 
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
+# Archive settings
 category_archive:
   type: liquid
   path: /categories/
