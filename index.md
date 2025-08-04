@@ -1,5 +1,5 @@
 ---
-- # 🛡️ THeophilus Malel
+# 🛡️ THeophilus Malel
 
 ---
 
