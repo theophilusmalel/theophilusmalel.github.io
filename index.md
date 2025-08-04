@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: "Curriculum Vitae"
 author_profile: true
 author: "Theophilus Malel"
