@@ -1,6 +1,6 @@
 # Site settings
 title: "Theophilus Malel"
-email: "Theophilusmalel@gmail.com"
+email: "theophilusmalel@gmail.com"
 description: >-
   A highly skilled Network Security Engineer with extensive experience in Fortinet technologies, firewall configurations, SD-WAN, endpoint security, VPNs, and cybersecurity projects. 
   Proven expertise in securing enterprise infrastructure, leading national security deployments, and continuously staying updated with modern security solutions.
@@ -11,9 +11,9 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 
-# Outputting
+# Output settings
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
@@ -31,6 +31,9 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-remote-theme
+
+# To fix Faraday retry middleware issue, ensure the following gem is installed if using Bundler locally:
+# gem "faraday-retry"
 
 author:
   name   : "Theophilus Malel"
