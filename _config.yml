@@ -18,7 +18,7 @@ markdown: kramdown
 # Author profile (for sidebar)
 author:
   name   : "Theophilus Malel"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/theoo.jpg"
   bio    : "Network Security Engineer | Fortinet Specialist | Cybersecurity Leader"
   location: "Nairobi, Kenya"
   links:
